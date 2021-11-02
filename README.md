@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @XxWalfenxX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hola, Soy Walfen
+- Creador de [Wolfiex](https://wolfiex.tk)
+- No se que mas poner bruh
 
-<!---
-XxWalfenxX/XxWalfenxX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Walfen's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxWalfenxX&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxWalfenxX&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
