@@ -1,6 +1,5 @@
 # 👋 Hola, Soy Walfen
-- Creador de [Wolfiex](https://wolfiex.tk)
-- No se que mas poner bruh
+- Creador de [Wolfiex](https://wolfiex.com)
 
-[![Walfen's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxWalfenxX&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxWalfenxX&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Walfen's GitHub stats](https://api.githubtrends.io/user/svg/XxWalfenxX/langs?time_range=one_year&use_percent=True&include_private=True&group=private&theme=bright_lights)
+![Top Langs](https://api.githubtrends.io/user/svg/XxWalfenxX/repos?time_range=one_year&include_private=True&group=private&theme=bright_lights)
